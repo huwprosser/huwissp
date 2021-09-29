@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+You may know me as the guy who is building JARVIS from Iron Man...or perhaps Molli, the AI receptionist not the drug 😂.
+
+Working hard https://blooware.co.uk to solve business problems with artificial intelligence.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huwissp&show_icons=true&theme=radical)
+
+
 <!--
 **huwissp/huwissp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
